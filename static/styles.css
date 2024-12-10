@@ -1,6 +1,6 @@
 body {
     font-family: 'SF Pro Display';
-    background-color: #f4f4f9;
+    background-color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@ body {
 .container {
     text-align: center;
     background: #ffffff;
-    padding: 20px 30px;
+    padding: 120px 120px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -39,14 +39,14 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     color: #ffffff;
-    background-color: #007BFF;
+    background-color: #ff0000;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #7e0000;
 }
 
 
